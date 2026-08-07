@@ -623,7 +623,7 @@ def call_gemini(prompt: str) -> str:
 
 **Aditya Gupta**
 
-- GitHub: [@aditya-rawat](https://github.com/aditya-rawat)
+- GitHub: [@aditya2k3](https://github.com/aditya2k3)
 - Project: Multi-Agent Enterprise AI Workflow System
 
 ---
@@ -649,34 +649,4 @@ This project is for educational purposes.
 
 ---
 
-## How to Save This File
 
-### Method 1: VS Code
-
-1. Open your project in VS Code
-2. Click **New File** icon (or right-click → New File)
-3. Name it: `README.md`
-4. **Select all** the markdown code above (between the ``` markers)
-5. **Copy** → **Paste** into the file
-6. **Save** (Ctrl+S)
-
-### Method 2: PowerShell
-
-```powershell
-# Creates README.md in current directory
-New-Item -Path "README.md" -ItemType File
-notepad README.md
-# Paste the content → Save
-```
-
----
-
-## Then Push to GitHub
-
-```powershell
-git add README.md
-git commit -m "Add comprehensive README documentation"
-git push origin main
-```
-
-Your README will now display beautifully on your GitHub repository page! 🎉
